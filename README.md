@@ -6,6 +6,9 @@
 > 本项目目的是研究 iGameGod的使用。  
 > 如有违反法律，请联系删除。
 
+![image](https://github.com/yhyzzm/iVegasGod/assets/139681923/2968fe12-d7bb-4529-9ecf-f52257941371)
+
+
 ## 下载
 
 - 从[releases](https://github.com/yhyzzm/iVegasGod/releases)下载.ipa安装包及视频教程
