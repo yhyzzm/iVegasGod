@@ -18,8 +18,9 @@
 从以下方法任选其一即可
 
 - [方法一](https://www.i4.cn/news_detail_38195.html) 需要电脑辅助安装
-- [方法二](http://aiweb.aifengkeji.com/#/jiaocheng?cjID=223&kfz=Alfie) 无需电脑，需设备系统为iOS 15.0 - iOS16.5
-- [方法三](https://udid.nuosike.cn/sign/) 无需电脑，需自己购买证书
+- [方法二](https://zhuanlan.zhihu.com/p/684665111?utm_id=0)需要电脑辅助安装，比方法一稳定一些
+- [方法三](http://aiweb.aifengkeji.com/#/jiaocheng?cjID=223&kfz=Alfie) 无需电脑，需设备系统为iOS 15.0 - iOS16.5
+- [方法四](https://udid.nuosike.cn/sign/) 无需电脑，需自己购买证书
 
 ## 使用
 
