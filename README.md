@@ -1,4 +1,4 @@
-# iVeGasGod
+# iVegasGod
 
 基于iGameGod的iOS端维加斯修改实现！
 
