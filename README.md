@@ -11,7 +11,7 @@
 
 ## 下载
 
-- 从[releases](https://github.com/yhyzzm/iVegasGod/releases)下载.ipa安装包及视频教程（Video tutorials）
+- 从[releases](https://github.com/yhyzzm/iVegasGod/releases)获取.ipa安装包及视频教程（Video tutorials）
 
 ## 安装
 
