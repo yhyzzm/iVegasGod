@@ -6,8 +6,7 @@
 > 本项目目的是研究 iGameGod的使用。  
 > 如有违反法律，请联系删除。
 
-[![1000004724.png](https://img2.imgtp.com/2024/04/04/Z5ro0LQM.png)](https://img2.imgtp.com/2024/04/04/Z5ro0LQM.png)
-
+![68747470733a2f2f696d67322e696d6774702e636f6d2f323032342f30342f30342f5a35726f304c514d2e706e67.png](https://img.qovv.cn/2024/04/25/66293e279db71.png)
 
 ## 下载
 
