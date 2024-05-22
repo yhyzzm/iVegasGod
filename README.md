@@ -1,12 +1,11 @@
 # iVegasGod
 
-基于iGameGod的iOS端维加斯修改实现！
-
 > 本项目仅提供学习与交流用途，请在24小时内删除。   
-> 本项目目的是研究 iGameGod的使用。  
-> 如有违反法律，请联系删除。
+> 本项目目的是研究通过iGameGuardian/iGameGod来实现多平台的内存修改。  
+> 在Android14(RedmiK70),iOS16(iPhone Xr)上测试可用
 
 ![68747470733a2f2f696d67322e696d6774702e636f6d2f323032342f30342f30342f5a35726f304c514d2e706e67](https://github.com/yhyzzm/iVegasGod/assets/139681923/3c4e287f-aa26-42eb-a4d6-658d9a344b0a)
+![logo](https://github.com/yhyzzm/iVegasGod/assets/139681923/b39726fa-e300-48ae-8d40-ffe42279b37b)
 
 
 ## 下载
