@@ -28,3 +28,6 @@
 ## 关于 
 
 QQ群[1022467413](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=NSuHDflXS126F6iTZNDKj7jkX9Wo1QRR&authKey=1R%2BNoM0UeaOQJgffHNv1MD9T%2FxtKJ5QZCiQ9h%2BnWPWJyFqzMpybqy4L2c6GTP35%2B&noverify=0&group_code=1022467413)，修改方法由群内大佬提供
+
+## 支持
+为了让开发者做出更好的作品，我们选择入驻爱发电，谢谢大家的支持！
